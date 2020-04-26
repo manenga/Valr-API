@@ -17,7 +17,3 @@ getMarketSummary(.XRPZAR) // gets market summary for XRPZAR pair only
 
 ## Author
 [LinkedIn](https://linkedin.com/in/mungandi/)
-
-## Try it out for yourself
-[iOS](https://expo.io/@mungand/Rona)
-[Android](https://expo.io/@mungand/Rona)
